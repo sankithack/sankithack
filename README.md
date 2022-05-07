@@ -11,7 +11,8 @@
 </div>
 
 ## Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/sankithack/sankithack/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake Light](https://github.com/sankithack/sankithack/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake dark](https://github.com/sankithack/sankithack/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
 
